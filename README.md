@@ -1,10 +1,10 @@
 # Starwars Chat
-
 App Star Wars Chat done with Vue.js and Firebase(Firestore/Hosting)
 
 ## Demo: https://chat-7a4f9.firebaseapp.com/
 
-Tutorial by Net Ninja
+
+Code with Net Ninja!
 
 ## Project setup
 ```
